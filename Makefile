@@ -3,7 +3,7 @@
 # Mateusz Szpakowski
 ###
 
-ADLSDKDIR = /home/mat/docs/src/ADL_SDK9
+ADLSDKDIR = ./dps/ADL_SDK_V10.2
 CXX = g++
 CXXFLAGS = -Wall -O3 -std=c++11
 LDFLAGS = -Wall -O3 -std=c++11
